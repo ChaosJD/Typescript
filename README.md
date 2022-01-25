@@ -1,0 +1,2 @@
+# Typescript
+all about that
